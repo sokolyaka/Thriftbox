@@ -1,0 +1,2 @@
+include ':app', ':server_api', ':server_api_retrofit', ':server_api_mock', ':domain', ':data', ':data_room'
+rootProject.name='Thriftbox'
